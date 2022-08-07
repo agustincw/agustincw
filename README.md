@@ -1,6 +1,6 @@
 ### Hi there, I'm Agustin 👋
 
-<img align='right' src="https://media.giphy.com/media/oNFP9kltPi7fp8TUAV/giphy.gif" width="270">
+<img align='right' src="https://media.giphy.com/media/oNFP9kltPi7fp8TUAV/giphy.gif" width="275">
 <p><em>Full Stack Developer</em></p>
 
 [![Linkedin: agustin-cusa](https://img.shields.io/badge/-agustin-cusa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agustin-cusa/)](https://www.linkedin.com/in/agustin-cusa/)
