@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there, I'm Agustin 👋
 
-<!--
-**agustincw/agustincw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="https://media.giphy.com/media/oNFP9kltPi7fp8TUAV/giphy.gif" width="270">
+<p><em>Full Stack Developer</em></p>
 
-Here are some ideas to get you started:
+[![Linkedin: agustin-cusa](https://img.shields.io/badge/-agustin-cusa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agustin-cusa/)](https://www.linkedin.com/in/agustin-cusa/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Some facts about me...  
+
+```javascript
+const agus = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS],
+  tools: [React, Redux, NodeJS, Express, Postgres],
+  studyAt: [self-taught, Plataforma 5 - Coding Bootcamp],
+  lookingFor: "a career, not a job",
+  favoritePhrase: "It's not a luxury to pursue what makes you happy. It's a moral obligation to pursue what you find meaningful",
+  teamWork:[SCRUM, pair programming],
+  languages: [spanish, english],
+  interests: [art, travel, meditation, and many more],
+}
+```
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+<em><b>Feel free to write me!</b></em>
+  <img src="https://media.giphy.com/stickers/transparent-C6GbYLsLkGEGelDaCc/giphy.gif" width="60">
