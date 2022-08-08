@@ -13,14 +13,15 @@ const agus = {
   tools: [React, Redux, NodeJS, Express, Postgres],
   studyAt: [self-taught, Plataforma 5 - Coding Bootcamp],
   lookingFor: "a career, not a job",
-  favoritePhrase: "It's not a luxury to pursue what makes you happy. It's a moral obligation to pursue what you find meaningful",
+  favoritePhrase: "It's not a luxury to pursue what makes you happy. It's an obligation to 
+                   pursue what you find meaningful",
   teamWork:[SCRUM, pair programming],
   languages: [spanish, english],
   interests: [art, travel, meditation, and many more],
 }
 ```
-<h3 align="center"> <img src="https://media.giphy.com/media/VHtJRPVgClb9QmfAOt/giphy.gif" width="40"> <em><b>Feel free to write me!</b></em> </h3>
-
+<h3 align="center"> <img src="https://media.giphy.com/media/GasKeLJHeOD4K50B7V/giphy.gif" width="70"> <em><b>Feel free to write me!</b></em> </h3>
+<br>
 <p align="center">
 <img width="600" src="https://media.giphy.com/media/oNFP9kltPi7fp8TUAV/giphy.gif">
 </p>
