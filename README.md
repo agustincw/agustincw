@@ -1,9 +1,9 @@
-### Hi there, I'm Agustin 👋
+### Hello World, I'm Agustin 👋 👨‍💻
 
-<img align='right' src="https://media.giphy.com/media/oNFP9kltPi7fp8TUAV/giphy.gif" width="275">
+<img align='right' src="https://media.giphy.com/media/oNFP9kltPi7fp8TUAV/giphy.gif" width="270">
 <p><em>Full Stack Developer</em></p>
 
-[![Linkedin: agustin-cusa](https://img.shields.io/badge/-agustin-cusa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agustin-cusa/)](https://www.linkedin.com/in/agustin-cusa/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-cusa/)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Some facts about me...  
 
