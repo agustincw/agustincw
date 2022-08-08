@@ -1,7 +1,8 @@
 ### Hello World, I'm Agustin 👋 👨‍💻
 
-<img align='right' src="https://media.giphy.com/media/oNFP9kltPi7fp8TUAV/giphy.gif" width="270">
 <p><em>Full Stack Developer</em></p>
+
+<p>I entered the IT world after having done an intensive 800-hour program, which lasted four months, at the Coding Bootcamp of Plataforma 5. I am deeply interested in applying the technical knowledge acquired, using agile methodologies that foster collaborative work. I am willing to adapt myself to new technologies and team work that each project may require.</p>
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-cusa/)
 
@@ -20,6 +21,6 @@ const agus = {
   interests: [art, travel, meditation, and many more],
 }
 ```
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-<em><b>Feel free to write me!</b></em>
-  <img src="https://media.giphy.com/stickers/transparent-C6GbYLsLkGEGelDaCc/giphy.gif" width="60">
+### <img src="https://media.giphy.com/media/VHtJRPVgClb9QmfAOt/giphy.gif" width="40"> <em><b>Feel free to write me!</b></em>
+<br>
+<img align='center' src="https://media.giphy.com/media/oNFP9kltPi7fp8TUAV/giphy.gif" width="500">
