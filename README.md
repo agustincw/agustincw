@@ -23,5 +23,5 @@ const agus = {
 <h3 align="center"> <img src="https://media.giphy.com/media/GasKeLJHeOD4K50B7V/giphy.gif" width="70"> <em><b>Feel free to write me!</b></em> </h3>
 <br>
 <p align="center">
-<img width="600" src="https://media.giphy.com/media/oNFP9kltPi7fp8TUAV/giphy.gif">
+<img width="490" src="https://media.giphy.com/media/oNFP9kltPi7fp8TUAV/giphy.gif">
 </p>
